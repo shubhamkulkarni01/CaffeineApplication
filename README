@@ -1,0 +1,7 @@
+Caffeine is an application that allows Android users to keep their screen on 
+for a limited amount of time. It is accessed using a quick-settings tile to 
+simplify access for users. It allows users to select 5 minutes, 15 minutes, and
+unlimited amounts of caffeine for their screen, which is the amount of time the
+screen will stay on.
+
+The goal is to incorporate this feature into the AOSP pipeline.
